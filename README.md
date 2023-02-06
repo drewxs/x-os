@@ -1,4 +1,4 @@
-# Kernl
+# X-OS
 
 Minimal rust kernel.
 
